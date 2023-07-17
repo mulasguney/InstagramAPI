@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "WXj+GhcRFq1zxsPwQmKhUBBivPPUE5OjMwSwQocOULJTEzuf14uw+PYlTF1qXBlokIAPTHhR7xqZian4GQUC7w==",
+  "success": true,
+  "projectFilePath": "/Users/ulasguney/Documents/RiderProjects/InstaAPI/InstaAPI/InstaAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/ulasguney/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/ulasguney/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/ulasguney/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/ulasguney/.nuget/packages/selenium.webdriver/4.10.0/selenium.webdriver.4.10.0.nupkg.sha512",
+    "/Users/ulasguney/.nuget/packages/selenium.webdriver.chromedriver/114.0.5735.9000/selenium.webdriver.chromedriver.114.0.5735.9000.nupkg.sha512",
+    "/Users/ulasguney/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/ulasguney/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/ulasguney/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/ulasguney/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
